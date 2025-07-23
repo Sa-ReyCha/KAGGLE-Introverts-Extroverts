@@ -1,0 +1,9 @@
+# Data Wrangling
+pandas
+
+# Data Visualization
+matplotlib
+
+
+# Machine Learning 
+scikit-learn
